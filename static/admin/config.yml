@@ -1,13 +1,13 @@
 backend:
   name: github
-  repo: thomaswang/gatsby-personal-starter-blog
+  repo: cityislander/test-gatsby-blog
 
 media_folder: content/assets
 public_folder: ../assets
 
 collections:
-  - name: blog
-    label: Blog
+  - name: 城市岛民
+    label: 博客
     folder: content/blog
     create: true
     fields:
